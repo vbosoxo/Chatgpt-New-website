@@ -6,9 +6,9 @@
 本项目旨在为用户提供一站式的 ChatGPT 中文版使用指南，同时整理了国内可用的 ChatGPT 镜像网站和官网使用教程，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
 
 ### 📋 目录
-- [什么是 ChatGPT 中文版？](###什么是 ChatGPT 中文版？)
-- [为什么选择 ChatGPT 中文版？](###为什么选择 ChatGPT 中文版？)
-- [国内可用的 ChatGPT 镜像网站推荐](###国内可用的 ChatGPT 镜像网站推)
+- [什么是 ChatGPT 中文版？](### 什么是 ChatGPT 中文版？)
+- [为什么选择 ChatGPT 中文版？](### 为什么选择 ChatGPT 中文版？)
+- [国内可用的 ChatGPT 镜像网站推荐](### 国内可用的 ChatGPT 镜像网站推)
 - [ChatGPT 官网与中文版的区别](### 国内可用的 ChatGPT 镜像网站推荐)
 - [ChatGPT 官网与中文版的区别](### ChatGPT 官网与中文版的区别)
 - [ChatGPT 中文版的使用指南](### ChatGPT 中文版的使用指南)
