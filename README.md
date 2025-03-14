@@ -1,6 +1,6 @@
-# ChatGPT 中文版：国内访问指南（支持 GPT-4、GPT-4o、GPT-o1，无需翻墙）【2025/03/13更新】
+# ChatGPT 中文版：国内访问指南（支持 GPT-4、GPT-4o、GPT-o1、GPT-o3、deepseek、grok3，无需翻墙）【2025/03/15更新】
 
-> 更新时间：2025/03/13
+> 更新时间：2025/03/15
 >
 > 作者：vbosoxo
 
@@ -24,7 +24,7 @@ ChatGPT 中文版是 OpenAI 开发的 ChatGPT 模型的中文使用版本，专�
 
 - **中文支持**：更流畅的中文对话能力，适合学习、办公和日常使用。
 - **国内直连**：通过国内镜像网站实现，无需翻墙即可访问。
-- **多功能应用**：支持 GPT-4 和 GPT-3.5，同时提供翻译、写作、问答等多种场景应用。
+- **多功能应用**：支持 GPT-4 和 GPT-3.5、GPT-o3、deepseek、grok3，同时提供翻译、写作、问答等多种场景应用。
 
 ### 为什么选择 ChatGPT 中文版？
 - **中文交互**：深谙中文语境，提供无缝的中文交互体验。
@@ -39,7 +39,7 @@ ChatGPT 中文版是 OpenAI 开发的 ChatGPT 模型的中文使用版本，专�
 
 | 镜像站地址                       | 支持版本                 | 免费额度 | 注册方式    | 稳定性   | 功能亮点 |
 | --------------------------------- | ------------------------ | -------- | ----------- | -------- | -------- |
-| [songshugpt.com](https://songshugpt.com) | GPT-4, GPT-4o, GPT-o1    | 有       | 扫码使用    | ⭐⭐⭐⭐⭐   | 支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
+| [songshugpt.com](https://songshugpt.com) | GPT-4, GPT-4o, GPT-o1、GPT-o3、deepseek、grok3    | 有       | 扫码使用    | ⭐⭐⭐⭐⭐   | 支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
 | [gptdog.online](https://gptdog.online/)   | GPT-4, GPT-4o, GPT-o1    | 有       | 扫码使用    | ⭐⭐⭐⭐⭐   | 支持 GPT-o1 模型，一比一还原官网，可以使用 AI 助手、AI 插件 |
 | [ai.panda.xyz](https://ai.panda.xyz) | GPT-4, GPT-4o           | 有       | 扫码使用    | ⭐⭐⭐⭐    | 提供 AI 使用指南，ChatGPT 中文版使用指南 |
 | [gptcat.net](https://gptcat.net) | GPT-4, GPT-3.5           | 有       | 扫码使用    | ⭐⭐⭐⭐    | 各种 AI 工具，你想要的，这儿全都有 |
@@ -71,7 +71,7 @@ ChatGPT 中文版是 OpenAI 开发的 ChatGPT 模型的中文使用版本，专�
 2. **注册账号**：
    - 准备一个海外手机号，用于验证码验证。
    - 填写邮箱，设置密码完成注册。
-3. **选择版本**：登录后可选择 GPT-4 或 GPT-3.5。
+3. **选择版本**：登录后可选择 GPT-4 或 GPT-3.5、GPT-o3、deepseek、grok3。
 4. **开始对话**：输入问题，体验原版 OpenAI 的智能回答。
 
 ### 常见问题解答（FAQ）
