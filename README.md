@@ -39,7 +39,7 @@ ChatGPT 中文版是 OpenAI 开发的 ChatGPT 模型的中文使用版本，专�
 
 | 镜像站地址                       | 支持版本                 | 免费额度 | 注册方式    | 稳定性   | 功能亮点 |
 | --------------------------------- | ------------------------ | -------- | ----------- | -------- | -------- |
-| [songshugpt.com](https://songshugpt.com) | GPT-4, GPT-4o, GPT-o1、GPT-o3、deepseek、grok3    | 有       | 扫码使用    | ⭐⭐⭐⭐⭐   | 支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
+| [www.songshugpt.com](https://www.songshugpt.com) | GPT-4, GPT-4o, GPT-o1、GPT-o3、deepseek、grok3    | 有       | 扫码使用    | ⭐⭐⭐⭐⭐   | 支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
 | [gptdog.online](https://gptdog.online/)   | GPT-4, GPT-4o, GPT-o1    | 有       | 扫码使用    | ⭐⭐⭐⭐⭐   | 支持 GPT-o1 模型，一比一还原官网，可以使用 AI 助手、AI 插件 |
 | [ai.panda.xyz](https://ai.panda.xyz) | GPT-4, GPT-4o           | 有       | 扫码使用    | ⭐⭐⭐⭐    | 提供 AI 使用指南，ChatGPT 中文版使用指南 |
 | [gptcat.net](https://gptcat.net) | GPT-4, GPT-3.5           | 有       | 扫码使用    | ⭐⭐⭐⭐    | 各种 AI 工具，你想要的，这儿全都有 |
@@ -59,7 +59,7 @@ ChatGPT 中文版是 OpenAI 开发的 ChatGPT 模型的中文使用版本，专�
 
 ### ChatGPT 中文版的使用指南
 #### 通过镜像网站快速体验
-1. **选择镜像站点**：访问推荐的镜像站点（如[songshugpt.com](https://songshugpt.com)）。
+1. **选择镜像站点**：访问推荐的镜像站点（如[www.songshugpt.com](https://www.songshugpt.com)）。
 2. **扫码使用**：
    - 扫码登录。
    - 免注册：直接进入聊天界面，输入问题即可获得回答。
